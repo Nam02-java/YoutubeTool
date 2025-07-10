@@ -1,6 +1,7 @@
 # ChuyenLaMoiNgay
+Kênh Youtube : ChuyenLaMoiNgay
 
-ChuyenLaMoiNgay
+
 🇻🇳 Mô tả dự án (Tiếng Việt) Hệ thống Tự Động Chuyển Truyện Thành Video/Audio và Đăng Lên YouTube
 
 Dự án này là một hệ thống tự động xử lý truyện từ website, chuyển thành video audio chất lượng cao, và đăng lên YouTube theo từng cụm chương. Quy trình hoạt động như sau:
